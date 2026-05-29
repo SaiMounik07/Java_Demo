@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "skills": {
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1779993118473
+    },
+    "github-api": {
+      "version": "1.0.6",
+      "installedAt": 1779993135668
+    }
+  }
+}
