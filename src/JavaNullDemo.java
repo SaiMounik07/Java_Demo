@@ -1,6 +1,6 @@
 public class JavaNullDemo {
     static void main() {
-        String s = null;
+        String s = "Hello";
         System.out.println(s.length());
     }
 }
